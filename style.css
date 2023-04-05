@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+.fundo{
+    background-color: rgba(196, 243, 188, 0.918);
+}
+header div{
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;;
+}
+.cabecalho{
+    background-color: rgb(19, 32, 18);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding: 8px;
+    width: 99%;
+    border-radius: 10px;
+    text-align: left;
+}
+.alinhar{
+    margin-left: 33.3%;
+    width: 800px;
+}
+.titulo{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;;
+}
+.notaTitulo{
+    font-size: 12px;
+}
+.alinhar{
+    align-items: end;
+}
+.layout{
+    padding: 15px;
+    border-radius: 5px;
+    background-color: rgba(89, 143, 80, 0.918);
+    font-size: 25px;
+    margin-bottom: 8px;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;;
+    width: 500px;
+    
+}
+#textLayout{
+    font-size: 15px;
+}
+.alinhaBotaoa{
+    padding-left: 50%;
+    width: 100%;
+    align-items: center;
+}
+#alinhaBotao{
+    width: 98%;
+    text-align:right;
+    padding: 20px;
+}
+#salvarDados{
+    width: 130px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: bolder;
+    border-color: rgb(32, 66, 31) rgb(68, 140, 66) rgb(9, 255, 0);
+    background-color: rgb(255, 76, 76);
+}
+#rodapeh{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;;
+    color: white;
+    
+}
+.rodape{
+    background-color: rgb(9, 70, 5);
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    text-align: center;
+}
+.ajustar{
+    display: inline-table;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;;
+    color: aliceblue;
+    width: 75px;
+    display: inline-flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contatoIF{
+    border-radius: 250px;
+}
+/*------------------------------------------------*/
+/* Dimencionamento das caixas de entrada de dados */
+#name{
+    width: 270px;
+    height: 20px;
+}
+#ender{
+    width: 270px;
+    height: 20px;
+}
+#city{
+    width: 270px;
+    height: 20px;
+}
+#phone{
+    width: 270px;
+    height: 20px;
+}
+#estado{
+    width: 270px;
+    height: 20px;
+}
+#cep{
+    width: 270px;
+    height: 20px;
+}
+#nacionalidade{
+    width: 270px;
+    height: 20px;
+}
+#outraFormacao{
+    width: 400px;
+    height: 20px;
+}
+#Ultimatarefa{
+    width: 400px;
+    height: 20px;
+}
+#Ultimocargo{
+    width: 400px;
+    height: 20px;
+}
+#Principaisatividades{
+    width: 400px;
+    height: 20px;
+}
+#empresa{
+    width: 250px;
+    height: 20px;
+}
+#cargo{
+    width: 250px;
+    height: 20px;
+}
+#periodo{
+    width: 50px;
+    height: 20px;
+}
+#responsabilidade{
+    width: 250px;
+    height: 20px;
+}
+#atividade{
+    width: 250px;
+    height: 20px;
+}
+#habiliTecnica{
+    width: 380px;
+    height: 20px;
+}
+#possuiidioma{
+    width: 380px;
+    height: 20px;
+}
+#Comportamento{
+    width: 400px;
+    height: 20px;
+}
+#InfoAdicionais{
+    width: 380px;
+    height: 20px;
+}
+#Disponibilidade{
+    width: 380px;
+    height: 20px;
+}
+/*----------------------------------------------*/
+/*----------------------------------------------*/
